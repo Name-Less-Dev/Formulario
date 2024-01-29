@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Formulário criado para capturar dados fornecidos pelo cliente.
 
-- [Acesse o projeto finalizado, online](https://name-less-dev.github.io./Formulario/)
+- [Acesse o projeto finalizado, online](https://name-less-dev.github.io/Formulario/)
 
 ## 🔖 Layout
 
